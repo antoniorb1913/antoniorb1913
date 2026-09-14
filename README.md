@@ -14,7 +14,7 @@ Me gusta el código limpio, las APIs bien diseñadas y trastear con Linux. Const
 
 ---
 
-### Tecnologías Principales
+### Tecnologías Conocidas
 
 **Backend & Bases de Datos:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
