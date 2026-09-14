@@ -20,7 +20,7 @@ Utilizo herramientas de **IA como acelerador**, pero priorizando siempre entende
 
 **Backend & Bases de Datos:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,postgres,mysql&theme=dark" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,java,spring,postgres,mysql&theme=dark" alt="Backend Stack" />
 </p>
 
 **Frontend Base:**
