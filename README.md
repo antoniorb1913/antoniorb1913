@@ -12,7 +12,7 @@ Utilizo herramientas de **IA como acelerador**, pero priorizando siempre entende
   - *Backend & Datos:* Django REST Framework · Docker · PostgreSQL.
   - *Frontend:* En desarrollo activo con Angular y TypeScript.
 - 🚻 **Control de Accesos al Aseo (TFG DAW):** Aplicación web para registro y trazabilidad de entradas y salidas en tiempo real.
-  - *Stack:* PHP · Laravel · MySQL.
+  - *Stack:* PHP · Laravel · Docker · PostgreSQL.
 
 ---
 
