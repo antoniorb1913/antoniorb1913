@@ -40,7 +40,6 @@ Utilizo herramientas de **IA como acelerador**, pero priorizando siempre entende
 ### 🚀 Actualmente Aprendiendo
 
 - 📚 **Angular & TypeScript:** Creación de SPAs, arquitectura por componentes y consumo de APIs.
-- 🐙 **Git & GitHub:** Flujos de trabajo colaborativos, gestión avanzada de ramas (rebase, merge) y control de versiones desde la terminal de Linux.
 
 ---
 
