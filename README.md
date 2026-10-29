@@ -13,6 +13,9 @@ Utilizo herramientas de **IA como acelerador**, pero priorizando siempre entende
   - *Frontend:* En desarrollo activo con Angular y TypeScript.
 - 🚻 **Control de Accesos al Aseo (TFG DAW):** Aplicación web para registro y trazabilidad de entradas y salidas en tiempo real.
   - *Stack:* PHP · Laravel · Docker · PostgreSQL.
+- 🌴 **Bar El Jardín — Bolnuevo:** [Tarjeta digital](https://bareljardin-bolnuevo.netlify.app/) de un bar real, **en producción**.
+  - *Stack:* HTML · CSS · JavaScript vanilla · Netlify (sin frameworks, sin build y sin dependencias externas).
+  - *Detalle:* estado abierto/cerrado en tiempo real, 3 idiomas, QR e instalable. Refactorizada de un único HTML de 1.343 líneas a 31 archivos con CSP estricta.
 
 ---
 
